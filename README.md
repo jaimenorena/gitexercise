@@ -1,6 +1,8 @@
 ## Getting Started
 
-Project for learnig git :P.
+## this is a project for learnig git :P.
+### probably will be delted soon.
+
 
 ## Folder Structure
 
